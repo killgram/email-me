@@ -106,3 +106,5 @@ dist
 # Custom
 package-lock.json
 .idea
+src/configurations/TransporterConfig.ts
+src/configurations/EmailAuthConfig.ts

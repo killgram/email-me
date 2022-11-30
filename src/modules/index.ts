@@ -1,3 +1,4 @@
 import { getWorkStatus } from "./GetWorkStatus";
+import { sendEmail } from "./SendEmail";
 
-export { getWorkStatus };
+export { getWorkStatus, sendEmail };
